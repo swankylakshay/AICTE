@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_background_main"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="com.knock.ashu.aicteandroid.LoginPromptActivity">
+
+    <ImageView
+        android:id="@+id/iv_main_logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/ic_logo" />
+
+    <TextView
+        android:id="@+id/tv_welcome_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_main_logo"
+        android:layout_marginTop="10dp"
+        android:text="@string/welcome_message"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/font_larger"
+        android:textStyle="normal" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="35sp"
+            android:layout_marginRight="30sp"
+            android:layout_weight="1"
+            android:background="@drawable/loginprompt_buttons_backgorund"
+            android:text="@string/login"
+            android:textColor="@drawable/loginprompt_buttons_color" />
+
+
+        <Button
+            android:id="@+id/btn_signup"
+            android:layout_width="wrap_content"
+            android:layout_height="35sp"
+            android:layout_weight="1"
+            android:background="@drawable/loginprompt_buttons_backgorund"
+            android:text="@string/signup"
+            android:textColor="@drawable/loginprompt_buttons_color" />
+
+    </LinearLayout>
+</RelativeLayout>

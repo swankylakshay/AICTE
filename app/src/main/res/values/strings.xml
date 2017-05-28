@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">AICTE</string>
+
+    <string name="welcome_message">Welcome to AICTE!</string>
+
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="blog">BLOG HERE</string>
+
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="fullname">FULL NAME</string>
+
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="image">IMAGE</string>
+    <string name="live_blogs">Live Blogs</string>
+    <string name="live_blogs_subtitle">Stay updated with new Announcements and blogs.</string>
+
+    <string name="signup_with_facebook">SIGN UP WITH FACEBOOK</string>
+    <string name="or_text">OR</string>
+    <string name="terms">I agree to Terms and Conditions</string>
+    <string name="agree_terms">You must agree to Terms and Conditions</string>
+    <string name="create_new_account">CREATE NEW ACCOUNT</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="general_aicte_info">General Aicte Overview</string>
+
+    <!--Titles-->
+
+    <string name="about_us">About us</string>
+    <string name="bureaus">Bureaus</string>
+    <string name="grievance">Grievance</string>
+    <string name="reports">Reports</string>
+    <string name="statistics">Statistics</string>
+    <string name="education">Education</string>
+    <string name="students">Students</string>
+    <string name="bulletin">Bulletin</string>
+
+    <!--SubTitles-->
+
+    <string name="about_us_subtitle">Technical education in india contributes a...</string>
+    <string name="bureaus_subtitle">AICTE administration is divided amongst 7 departments...</string>
+    <string name="grievance_subtitle">Online Application for Grievance</string>
+    <string name="reports_subtitle">A management information system(MIS) is a subset of...</string>
+    <string name="statistics_subtitle">General Statistical information</string>
+    <string name="education_subtitle">Education or teaching in the broadest sense is any...</string>
+    <string name="students_subtitle">The word student is etymologically derived through...</string>
+    <string name="bulletin_subtitle">A bulletin board(pinboard or notice board in...</string>
+
+    <!--Full Info Of Tabs-->
+
+    <string name="full_info_about_us">
+    Technical education in India contributes a major share to the overall education system and plays a vital role in the social and economic development of our nation. In India, technical education is imparted at various levels such as: craftsmanship, diploma, degree, post-graduate and research in specialized fields, catering to various aspects of technological development and economic progress.
+
+    \n\nThe beginning of formal Technical Education in India can be dated back to the mid 19th Century. The major policy initiatives in the pre-independence period included appointment of the Indian Universities Commission in 1902, issue of the Indian Education policy resolution in 1904 and the Governor General’s policy statement of 1913 stressing the importance of Technical Education, the establishment of IISc in Bangalore, Institute for Sugar, Textile and Leather Technology in Kanpur, N.C.E. in Bengal in 1905 and Industrial schools in several provinces. Significant developments include:
+
+    \n\n-Constitution of the Technical Education  Committee of the Central Advisory Board of  Education (CABE) of 1943;
+    \n-Preparation of the Sergeant Report of 1944; and
+    \n-Formation of the All India Council for Technical Education (AICTE) in 1945 by the Government of India.
+    \nAll India Council for Technical Education (AICTE) was set-up in November 1945 as a national level Apex Advisory Body to conduct survey on the facilities on technical education and to promote development in the country in a coordinated and integrated manner. And to ensure the same, as stipulated in, the National Policy of Education (1986), AICTE be vested with statutory authority for planning, formulation and maintenance of norms and standards, quality assurance through accreditation, funding in priority areas, monitoring and evaluation, maintaining parity of certification and awards and ensuring coordinated and integrated development and management of technical education in the country.
+
+    \n\nThe Government of India (Ministry of Human Resource Development) also constituted a National Working Group to look into the role of AICTE in the context of proliferation of technical institutions, maintenance of standards and other related matters. The Working Group recommended that AICTE be vested with the necessary statutory authority for making it more effective, which would consequently require restructuring and strengthening with necessary infrastructure and operating mechanisms.
+    \n\nPursuant to the above recommendations of the National Working Group, the AICTE Bill was introduced in both the Houses of Parliament and passed as the AICTE Act No. 52 of 1987. The Act came into force w.e.f. March 28, 1988. The statutory All India Council for Technical Education was established on May 12, 1988 with a view to proper planning and coordinated development of technical education system throughout the country, the promotion of qualitative improvement of such education in relation to planned quantitative growth and the regulation and proper maintenance of norms and standards in the technical education system and for matters connected therewith.
+    \n\nThe purview of AICTE (the Council) covers programmes of technical education including training and research in Engineering, Technology, Architecture, Town Planning, Management, Pharmacy, Applied Arts and Crafts, Hotel Management and Catering Technology etc. at different levels.
+
+    \n\nThe Organisation
+    \nIn accordance with the provisions of the AICTE Act (1987), for the first five years after its inception in 1988, the Minister for Human Resource Development, Government of India was the Chairman of the Council. The first full time Chairman was appointed on July 2, 1993 and the Council was re-constituted in March 1994 with a term of three years. The Executive Committee was re-constituted on July 7, 1994 and All India Boards of Studies and Advisory Boards were constituted in 1994-95. Regional Offices of the Ministry of Human Resource Development, Government of India, located at Kolkata, Chennai, Kanpur and Mumbai were transferred to AICTE and the staff working at these offices were also deputed to the Council on foreign service terms w.e.f. October 1, 1995. These offices functioned as secretariats of Regional Committees in the four regions (East, South, North and West). Three new Regional Committees in southwest, central and northwest regions with their secretariats located at Bangalore, Bhopal and Chandigarh respectively were also established on July 27, 1994. One more Regional Committee in South-Central region with its Secretariat at Hyderabad was notified on March 8, 2007.
+
+    \n\nThe AICTE has constructed its own fully air-conditioned Office Building having a covered area of five acres of land, situated at Nelson Mandela Marg, Vasant Kunj, New Delhi-110 067. The Office Building is Ground + 3 floors with three wings each having a seating capacity of about 300 employees, 8 Conference rooms, an 800 capacity auditorium, 20 rooms Guest House and Canteens for Staff and Officers. There is a 2 level basement parking and lush green open spaces. There is also a temple of Ganesha.
+
+    \n\nThe Organization Structure of AICTE comprises Five Bureaus as under:
+      \n\n 1.	Approval Bureau
+        \n 2.	Administration Bureau
+        \n 3.	Finance Bureau
+        \n 4.	RIFD Bureau
+        \n 5.	Policy and Academic Planning Bureau
+
+
+    \n\nApart from the above Bureau, AICTE has the following Cells:
+      \n\n 1 .	e-Governance Cell
+        \n 2.	CMAT and GPAT Cell
+        \n 3.	Hindi Cell
+        \n 4.	Parliament Cell
+        \n 5.	Internal Audit Cell
+        \n 6.	Grievances Redressal Cell
+        \n 7.	Vigilance Cell
+        \n 8.	Legal Cell
+        \n 9.	SWAYAM Project Cell
+        \n 10.	Skill Development Cell
+        \n 11.	Estate Management Cell
+        \n 12.	RTI Cell
+        \n 13.	J and K Cell
+        \n 14.	NEQIP Cell
+    \n\nFor each Bureau, Adviser is the Bureau Head who is assisted by technical officers and other supporting staff. The multidiscipline technical officers and staff of the Council are on deputation or on contract from various Government Departments, University Grants Commission, academic institutions etc.
+</string>
+
+    <string name="full_info_bureaus">
+        1.Office \n\n
+         \t *Public office \n
+         \t *Government agency \n
+         \t *News bureau \n\n
+        2.Desk \n\n
+        3.Chest of drawers \n\n
+        4.Service bureau, business Service Company \n\n\n
+AICTE administration is divided amongst 7 Departments namely Administration, Academic, Finance, Technical Programs, Planning and Coordination, Quality Assurance and Research and Development.
+
+ </string>
+    <string name="full_info_grievance">\n\t *Online Application for Grievance</string>
+    <string name="full_info_reports">Reports \n\n\n
+
+A management information system (MIS) is a subset of the overall internal controls of a business covering the application of people, documents, technologies, and procedures by management accountants to solve business problems such as costing a product, service or a business-wide strategy. Management information systems are distinct from regular information systems in that they are used to analyze other information systems applied in operational activities in the organization. Academically, the term is commonly used to refer to the group of information management methods tied to the automation or support of human decision making, e.g. Decision Support Systems, Expert systems, and Executive information systems. \n\n\n
+
+It has been described as, "MIS 'lives' in the space that intersects technology and business. MIS combines tech with business to get people the information they need to do their jobs better/faster/smarter. Information is the lifeblood of all organizations - now more than ever. MIS professionals work as systems analysts, project managers, systems administrators, etc., communicating directly with staff and management across the organization. \n\n\n
+
+An 'MIS' is a planned system of the collecting, processing, storing and disseminating data in the form of information needed to carry out the functions of management. In a way it is a documented report of the activities those were planned and executed. According to Philip Kotler "A marketing information system consists of people, equipment, and procedures to gather, sort, analyze, evaluate, and distribute needed, timely, and accurate information to marketing decision makers. \n\n\n
+
+Reports are documents which present focused, salient content to a specific audience. Reports are often used to display the result of an experiment, investigation, or inquiry. The audience may be public or private, an individual or the public in general. Reports are used in government, business, education, science, and other fields. \n\n\n
+
+Reports often use persuasive elements, such as graphics, images, voice, or specialized vocabulary in order to persuade that specific audience to undertake an action. One of the most common formats for presenting reports is IMRAD: Introduction, Methods, Results and Discussion. This structure is standard for the genre because it mirrors the traditional publication of scientific research and summons the ethos and credibility of that discipline. Reports are not required to follow this pattern, and may use alternative patterns like the problem-solution format.</string>
+    <string name="full_info_statistics">Statistics</string>
+    <string name="full_info_education"> Education \n\n\n
+
+Education or teaching in the broadest sense is any act or experience that has a formative effect on the mind, character or physical ability of an individual. In its technical sense education is the process by which society deliberately transmits its accumulated knowledge, skills and values from one generation to another. \n\n\n
+
+Teachers in educational institutions direct the education of students and might draw on many subjects, including reading, writing, mathematics, science and history. This process is sometimes called schooling when referring to the education of teaching only a certain subject, usually as professors at institutions of higher learning. There is also education in fields for those who want specific vocational skills, such as those required to be a pilot. In addition there is an array of education possible at the informal level, such as in museums and libraries, with the Internet and in life experience. Many non-traditional education options are now available and continue to evolve. \n\n\n
+
+India has passed the Right to Education Bill 2009 in August 2009 \n\n\n
+
+World Education Metrics http://www.webometrics.info \n\n\n
+
+	\t\t *Eleventh Five Year Plan Education \n\n
+	\t\t *Engendering XI Five Year Plan \n\n
+	\t\t *5Higher Education XI Plan \n\n</string>
+    <string name="full_info_students">Student \n\n\n
+
+The word student is etymologically derived through Middle English from the Latin second-type conjugation verb studēre, meaning "to direct one'\s zeal at"; hence a student could be described as "one who directs zeal at a subject". In its widest use, student is used for anyone who is learning. \n\n\n
+
+Learning is acquiring new knowledge, behaviors, skills, values or preferences. It may involve processing different types of information. Learning functions can be performed by different brain learning processes, which depend on the mental capacities of learning subject/agent, the type of knowledge which has to be acquitted, as well as on socio-cognitive and environmental circumstances. \n\n\n
+Human learning may occur as part of education or personal development. It may be goal-oriented and may be aided by motivation. The study of how learning occurs is part of neuropsychology, educational psychology, learning theory, and pedagogy. \n\n\n
+
+Learning may occur as a result of habituation or classical conditioning, seen in many animal species, or as a result of more complex activities such as play, seen only in relatively intelligent animals and humans. Learning may occur consciously or without conscious awareness. There is evidence for human behavioral learning prenatally, in which habituation has been observed as early as 32 weeks into gestation, indicating that the central nervous system is sufficiently developed and primed for learning and memory to occur very early on in development. \n\n</string>
+    <string name="full_info_bulletin">Bulletin \n\n\n
+
+A bulletin board (pinboard, pin board or notice board in British English) is a place where people can leave public messages, for example, to advertise things to buy or sell, announce events, or provide information. Bulletin boards are often made of a material such as cork to facilitate addition and removal of messages or it can be placed on the computer so people can leave and erase messages for other people to read and see. \n\n\n
+
+Bulletin boards are particularly prevalent at universities. Many sport dozens, if not hundreds or thousands of public bulletin boards, used for everything from advertisements by extracurricular groups and local shops to official notices. Dormitory corR and Dors, well-trafficked hallways, lobbies, and freestanding kiosks often have cork boards attached to facilitate the posting of notices. \n\n\n
+
+At some universities, lampposts, bollards, trees, and walls often become impromptu posting sites in areas where official boards are sparse in number. Internet forums are becoming a global replacement for traditional bulletins. Online bulletin boards are sometimes referred to as message boards. The terms bulletin board, message boards and even internet forums are interchangeable, although often one bulletin board or message board can contain a number of internet forums or discussion groups. An online board can serve the same purpose as a physical bulletin board. /n/n/n</string>
+
+    <!--ACTIONBAR-->
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+</resources>

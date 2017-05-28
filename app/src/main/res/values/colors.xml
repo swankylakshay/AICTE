@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDarkGray">#282828</color>
+    <color name="colorDarkGrayText">#4d4d4d</color>
+    <color name="colorBackgroundTrips">#435151</color>
+
+
+    <!-- grayscale -->
+    <color name="white"     >#FFFFFF</color>
+
+    <color name="gray_very_light">#f6f6f6</color>
+    <color name="gray_light">#ececec</color>
+    <color name="gray_light_2">#c2c2c2</color>
+    <color name="gray_light_text">#9c9c9c</color>
+    <color name="gray"      >#939393</color>
+    <color name="gray_dark" >#5F5F5F</color>
+    <color name="black"     >#323232</color>
+
+    <color name="colorLightGrey">#d1d1d1</color>
+
+
+    <!-- basic colors -->
+    <color name="green">#27D34D</color>
+
+
+    <color name="blue_text">#0098f0</color>
+    <color name="blue_toggle">#007aff</color>
+
+    <color name="blue">#0098f0</color>
+
+    <color name="orange">#FF9D2F</color>
+    <color name="red">#FF432F</color>
+    <color name="pink">#ff40ff</color>
+    <color name="violet">#8A2BE2</color>
+    <color name="yellow">#ffff00</color>
+    <color name="blue_light">#0098f0</color>
+    <color name="transparent_blue">#bbdefb</color>
+
+    <!-- other colors -->
+    <color name="transparent">#33ffffff</color>
+    <color name="background_dialog">#99000000</color>
+</resources>
